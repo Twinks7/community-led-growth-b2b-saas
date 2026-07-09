@@ -47,12 +47,42 @@ community-led-growth-b2b-saas/
 
 ## Selected Experts
 
-This research will include insights from founders, marketers, and community leaders who actively practice Community-Led Growth in the B2B SaaS ecosystem.
+This repository includes research on 10 practitioners actively involved in Community-Led Growth, SaaS ecosystem development, and founder communities.
 
-The complete list of experts is available in `research/sources.md`.
+Experts include:
+
+- David Spinks
+- Beth McIntyre
+- Carrie Melissa Jones
+- Greg Isenberg
+- Lloyed Lobo
+- Sam Jacobs
+- Avinash Raghava
+- Girish Mathrubootham
+- Suresh Sambandam
+- Krish Subramanian
+
+A detailed overview of each expert and the resources collected is available in `research/sources.md`.
 
 ---
 
 ## Expected Outcome
 
 By the end of this project, this repository will contain a curated collection of expert insights, LinkedIn posts, YouTube transcripts, case studies, and research notes that together provide a practical understanding of Community-Led Growth for B2B SaaS companies.
+
+---
+
+## Research Sources
+
+The repository contains research collected from:
+
+- LinkedIn posts
+- YouTube videos and transcripts
+- Podcasts
+- Community blogs
+- Company websites
+- Public interviews
+
+All summaries are intended for educational and research purposes, with links to the original sources wherever possible.
+
+
