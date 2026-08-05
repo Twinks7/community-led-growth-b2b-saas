@@ -42,44 +42,47 @@ Successful communities begin with a clear purpose that benefits members, not jus
 
 ---
 
-### 2. Focus on Member Success
+### 2. Deliver Consistent Value Before Growth
 
-A successful community exists to solve members' problems rather than promote a product. When members achieve meaningful outcomes, they naturally become advocates.
+Successful communities prioritize delivering value to members before focusing on rapid growth. Rather than chasing membership numbers, communities should provide educational content, meaningful discussions, networking opportunities, and practical support that encourage members to stay engaged. When members consistently receive value, they are more likely to participate, contribute, and advocate for the community.
 
 **Sources:**
-- David Spinks – LinkedIn Post ([add link])
-- Greg Isenberg – LinkedIn Post ([add link])
+- Beth McIntyre – Community Strategy: The Three-Level Framework
+- Lloyed Lobo – From Grassroots to Greatness
+- Greg Isenberg – Community Building
 
 ---
 
-### 3. Encourage Member-to-Member Engagement
+### 3. Encourage Member-to-Member Participation
 
-The strongest communities do not rely on a single moderator. Members should be encouraged to answer questions, share experiences, and help each other.
+Healthy communities are driven by members rather than moderators alone. Encouraging members to answer questions, share experiences, mentor others, and contribute ideas creates stronger engagement and long-term sustainability. Communities become more valuable when members actively help one another.
 
 **Sources:**
-- Rosie Sherry – LinkedIn Post ([add link])
-- David Spinks – YouTube / Podcast ([add link])
+- David Spinks – Build Community from Audience
+- Sam Jacobs – Building Pavilion
+- Suresh Sambandam – Founder-First: How to Run Startup Events
 
 ---
 
-### 4. Start Small Before Scaling
+### 4. Start Small and Build Trust Before Scaling
 
-Rather than chasing thousands of members, build an engaged core group first. High participation from a small community creates stronger long-term growth than a large inactive audience.
+Many successful communities begin with a small, highly engaged group instead of pursuing rapid membership growth. Building trust, encouraging meaningful conversations, and refining the community experience early creates a stronger foundation for sustainable expansion.
 
 **Sources:**
-- Greg Isenberg – LinkedIn Post ([add link])
-- Lloyed Lobo – Podcast / LinkedIn ([add link])
+- Greg Isenberg – Community Building
+- Lloyed Lobo – How To Scale With Community-Led Growth
+- Avinash Raghava – How To Build A Meaningful Community
 
 ---
 
-### 5. Measure Community Health, Not Just Growth
+### 5. Measure Success Through Business and Member Outcomes
 
-Success should be measured using engagement, retention, meaningful conversations, and member contributions—not only total member count.
+Community success should be evaluated using both member engagement and business impact. Metrics such as active participation, retention, advocacy, customer feedback, and product improvement provide a more meaningful view of community health than member count alone.
 
 **Sources:**
-- David Spinks – LinkedIn ([add link])
-- Rosie Sherry – Blog / LinkedIn ([add link])
-
+- Beth McIntyre – Three-Level Strategy Framework
+- Carrie Melissa Jones – Measuring Community Success
+- David Spinks – The Business of Belonging
 
 ## Community-Led Growth SOP
 
