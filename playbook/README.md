@@ -86,96 +86,117 @@ Community success should be evaluated using both member engagement and business 
 
 ## Community-Led Growth SOP
 
-The following Standard Operating Procedure (SOP) provides a step-by-step framework for implementing Community-Led Growth in a B2B SaaS company.
+The following Standard Operating Procedure (SOP) provides a practical framework for implementing Community-Led Growth in a B2B SaaS company.
 
 ### Step 1: Define the Community Strategy
 
-Before launching a community, define:
+Before launching a community, clearly define:
 
 - Target audience
 - Community purpose
 - Business objectives
 - Member value proposition
+- Success metrics
 
-**Recommendation:** Never create a community without a clear purpose for members.
+A community should exist to solve meaningful problems for its members while supporting business goals. Launching without a clear purpose often results in low engagement and poor retention.
 
-**Source:** David Spinks (add link)
+**Sources:**
+- Beth McIntyre – Community Strategy: The Three-Level Framework
+- Carrie Melissa Jones – Building Brand Communities
+- Avinash Raghava – How To Build A Meaningful Community
 
 ---
 
-### Step 2: Recruit Your First Members
+### Step 2: Recruit a Small Group of Engaged Members
 
-Invite your first 50–100 highly engaged users instead of chasing thousands of signups.
+Start with a focused group of highly engaged members rather than trying to build a large audience immediately.
 
 Potential members include:
 
 - Existing customers
 - Beta users
-- Newsletter subscribers
 - Industry experts
-- LinkedIn connections
+- Newsletter subscribers
+- Active LinkedIn connections
 
-**Recommendation:** Prioritize engagement quality over community size.
+Early members help shape the culture, provide feedback, and encourage future participation.
 
-**Source:** Greg Isenberg (add link)
+**Sources:**
+- Greg Isenberg – Community Building
+- Lloyed Lobo – How To Scale With Community-Led Growth
+- Sam Jacobs – Building Pavilion
 
 ---
 
 ### Step 3: Deliver Consistent Value
 
-Create recurring activities such as:
+Provide recurring opportunities for members to learn, contribute, and connect.
+
+Examples include:
 
 - Weekly discussions
 - AMA sessions
-- Case studies
 - Product feedback sessions
-- Educational content
+- Educational webinars
+- Case studies
+- Networking events
 
-**Recommendation:** Members should gain value even if they never become customers.
+Communities retain members when they consistently create value rather than focusing only on promotions.
 
-**Source:** Rosie Sherry (add link)
+**Sources:**
+- Beth McIntyre – How Communities Drive Growth
+- David Spinks – The Business of Belonging
+- Carrie Melissa Jones – Community Engagement Framework
 
 ---
 
 ### Step 4: Encourage Member Participation
 
-Reward members who:
+Create an environment where members actively contribute by:
 
-- Answer questions
-- Share experiences
-- Welcome new members
-- Create discussions
-- Give product feedback
+- Answering questions
+- Sharing experiences
+- Welcoming new members
+- Providing product feedback
+- Starting discussions
 
-Healthy communities grow through member participation rather than administrator activity.
+Healthy communities become self-sustaining when members help one another instead of relying entirely on moderators.
 
-**Source:** David Spinks (add link)
+**Sources:**
+- David Spinks – Build Community from Audience
+- Sam Jacobs – The Power of Professional Communities
+- Suresh Sambandam – Founder-First: How to Run Startup Events
 
 ---
 
 ### Step 5: Measure Community Health
 
-Track:
+Track metrics that reflect both engagement and business impact, such as:
 
 - Active members
 - Returning members
 - Engagement rate
-- User-generated content
-- Product feedback
 - Customer retention
+- Product feedback
+- Community-generated content
+- Customer advocacy
 
-Avoid measuring success only through member count.
+Avoid measuring success using member count alone.
 
-**Source:** David Spinks & Rosie Sherry (add links)
+**Sources:**
+- Beth McIntyre – Three-Level Strategy Framework
+- Carrie Melissa Jones – Measuring Community Success
+- David Spinks – The Business of Belonging
 
 ---
 
-### Step 6: Continuously Improve
+### Step 6: Improve Through Continuous Feedback
 
-Review community performance monthly.
+Review community performance regularly by collecting member feedback through surveys, interviews, and discussions.
 
-Collect feedback through surveys, interviews and discussions.
+Use these insights to improve programs, community guidelines, events, and member experiences. Communities evolve when they listen to their members and adapt over time.
 
-Update community guidelines and activities based on member feedback.
-
-**Source:** Lloyed Lobo (add link)
+**Sources:**
+- Lloyed Lobo – From Grassroots to Greatness
+- Avinash Raghava – Pay-it-forward
+- Greg Isenberg – Community Building
