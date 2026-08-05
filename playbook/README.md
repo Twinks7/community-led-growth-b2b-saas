@@ -31,13 +31,14 @@ Across the research conducted for this playbook, a common theme emerged: success
 
 The following principles appeared consistently across multiple experts and form the foundation of this playbook.
 
-### 1. Build Relationships Before Selling
+### 1. Build Communities Around a Shared Purpose
 
-Communities are built on trust, not promotional content. The primary goal should be to create value through education, conversations, and peer-to-peer support before attempting to convert members into customers.
+Successful communities begin with a clear purpose that benefits members, not just the business. Across multiple experts, a recurring theme is that people join and stay in communities when they share common goals, learn from peers, and find meaningful value. A strong purpose creates trust, encourages participation, and lays the foundation for sustainable community growth.
 
 **Sources:**
-- David Spinks – LinkedIn Post ([add link])
-- Rosie Sherry – LinkedIn Post ([add link])
+- Avinash Raghava – Homecoming: Going Back to My Roots of Building a Community
+- Carrie Melissa Jones – Building Brand Communities
+- David Spinks – The Business of Belonging / LinkedIn
 
 ---
 
