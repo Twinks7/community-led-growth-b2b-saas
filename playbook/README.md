@@ -15,7 +15,11 @@ This playbook is intended for:
 - Founder-led startups
 - Marketing and Product teams looking to build community as a growth channel
 
-- ## Core Principles of Community-Led Growth
+  
+> **Note:** This playbook is based on research conducted in July–August 2026 and reflects the author's evaluation of multiple industry perspectives rather than the opinion of a single expert.
+
+
+ ## Core Principles of Community-Led Growth
 
 The following principles appeared consistently across multiple experts and form the foundation of this playbook.
 
@@ -67,4 +71,99 @@ Success should be measured using engagement, retention, meaningful conversations
 - David Spinks – LinkedIn ([add link])
 - Rosie Sherry – Blog / LinkedIn ([add link])
 
-> **Note:** This playbook is based on research conducted in July–August 2026 and reflects the author's evaluation of multiple industry perspectives rather than the opinion of a single expert.
+
+## Community-Led Growth SOP
+
+The following Standard Operating Procedure (SOP) provides a step-by-step framework for implementing Community-Led Growth in a B2B SaaS company.
+
+### Step 1: Define the Community Strategy
+
+Before launching a community, define:
+
+- Target audience
+- Community purpose
+- Business objectives
+- Member value proposition
+
+**Recommendation:** Never create a community without a clear purpose for members.
+
+**Source:** David Spinks (add link)
+
+---
+
+### Step 2: Recruit Your First Members
+
+Invite your first 50–100 highly engaged users instead of chasing thousands of signups.
+
+Potential members include:
+
+- Existing customers
+- Beta users
+- Newsletter subscribers
+- Industry experts
+- LinkedIn connections
+
+**Recommendation:** Prioritize engagement quality over community size.
+
+**Source:** Greg Isenberg (add link)
+
+---
+
+### Step 3: Deliver Consistent Value
+
+Create recurring activities such as:
+
+- Weekly discussions
+- AMA sessions
+- Case studies
+- Product feedback sessions
+- Educational content
+
+**Recommendation:** Members should gain value even if they never become customers.
+
+**Source:** Rosie Sherry (add link)
+
+---
+
+### Step 4: Encourage Member Participation
+
+Reward members who:
+
+- Answer questions
+- Share experiences
+- Welcome new members
+- Create discussions
+- Give product feedback
+
+Healthy communities grow through member participation rather than administrator activity.
+
+**Source:** David Spinks (add link)
+
+---
+
+### Step 5: Measure Community Health
+
+Track:
+
+- Active members
+- Returning members
+- Engagement rate
+- User-generated content
+- Product feedback
+- Customer retention
+
+Avoid measuring success only through member count.
+
+**Source:** David Spinks & Rosie Sherry (add links)
+
+---
+
+### Step 6: Continuously Improve
+
+Review community performance monthly.
+
+Collect feedback through surveys, interviews and discussions.
+
+Update community guidelines and activities based on member feedback.
+
+**Source:** Lloyed Lobo (add link)
