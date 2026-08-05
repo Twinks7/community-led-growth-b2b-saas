@@ -18,6 +18,14 @@ This playbook is intended for:
   
 > **Note:** This playbook is based on research conducted in July–August 2026 and reflects the author's evaluation of multiple industry perspectives rather than the opinion of a single expert.
 
+## What is Community-Led Growth?
+
+Community-Led Growth (CLG) is a business strategy that uses community as a core driver of sustainable growth. Instead of relying only on paid marketing or sales, CLG focuses on creating an environment where customers, founders, and industry professionals can connect, learn, and contribute to one another.
+
+A strong community creates value beyond the product itself. Members share knowledge, provide feedback, answer questions, and advocate for the brand, helping improve customer acquisition, retention, and long-term loyalty.
+
+Across the research conducted for this playbook, a common theme emerged: successful communities are built on trust, shared purpose, and consistent value creation rather than rapid member growth.
+
 
  ## Core Principles of Community-Led Growth
 
