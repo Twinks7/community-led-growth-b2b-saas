@@ -200,3 +200,49 @@ Use these insights to improve programs, community guidelines, events, and member
 - Lloyed Lobo – From Grassroots to Greatness
 - Avinash Raghava – Pay-it-forward
 - Greg Isenberg – Community Building
+
+- ## Where Experts Disagree
+
+Although the experts agree on the importance of community-led growth, they differ in their approach to building and measuring successful communities.
+
+### 1. Founder-Led vs Member-Led Communities
+
+Greg Isenberg and Lloyed Lobo emphasize the role of founders in actively building and nurturing communities during the early stages. In contrast, David Spinks believes that while founders help establish the initial culture, long-term success depends on members taking ownership and actively supporting one another.
+
+**Sources:**
+- Greg Isenberg – Community Building
+- Lloyed Lobo – From Grassroots to Greatness
+- David Spinks – Build Community from Audience
+
+**My Analysis:**
+
+Founders should lead in the beginning to establish trust and direction, but communities become more sustainable when members gradually take on leadership and contribute independently.
+
+---
+
+### 2. Measuring Community Success
+
+Beth McIntyre focuses on aligning community initiatives with measurable business outcomes such as customer retention and growth. Carrie Melissa Jones places equal importance on member belonging, engagement, and long-term relationships alongside business metrics.
+
+**Sources:**
+- Beth McIntyre – Three-Level Strategy Framework
+- Carrie Melissa Jones – Measuring Community Success
+
+**My Analysis:**
+
+Community success should be evaluated using both business metrics and member experience. Focusing on only one perspective provides an incomplete picture of community health.
+
+---
+
+### 3. Scaling Communities
+
+Greg Isenberg encourages rapid experimentation and continuous iteration while building communities. Avinash Raghava and Suresh Sambandam place greater emphasis on building trust, culture, and strong member relationships before expanding the community.
+
+**Sources:**
+- Greg Isenberg – Community Building
+- Avinash Raghava – How To Build A Meaningful Community
+- Suresh Sambandam – Founder-First: How to Run Startup Events
+
+**My Analysis:**
+
+Early experimentation is valuable, but sustainable growth depends on establishing a strong foundation of trust and meaningful member engagement before scaling.
