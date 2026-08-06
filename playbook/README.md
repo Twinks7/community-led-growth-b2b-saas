@@ -115,10 +115,16 @@ Before launching a community, clearly define:
 
 A community should exist to solve meaningful problems for its members while supporting business goals. Launching without a clear purpose often results in low engagement and poor retention.
 
-**Sources:**
-- Beth McIntyre – Community Strategy: The Three-Level Framework
-- Carrie Melissa Jones – Building Brand Communities
-- Avinash Raghava – How To Build A Meaningful Community
+**Sources**
+
+Beth McIntyre – Community Strategy: The Three-Level Framework
+https://www.cmxhub.com/blog/the-three-level-strategy-framework
+
+Carrie Melissa Jones – Building Brand Communities
+https://buildingbrandcommunities.com/
+
+Avinash Raghava – How To Build A Meaningful Community
+https://saasboomi.org/
 
 ---
 
@@ -137,9 +143,14 @@ Potential members include:
 Early members help shape the culture, provide feedback, and encourage future participation.
 
 **Sources:**
-- Greg Isenberg – Community Building
-- Lloyed Lobo – How To Scale With Community-Led Growth
-- Sam Jacobs – Building Pavilion
+Greg Isenberg – Community Building (YouTube)
+https://www.youtube.com/watch?v=e9J9s2_DAKE
+
+Lloyed Lobo – How To Scale With Community-Led Growth
+https://mail.ehandbook.com/p/scale-community-led-growth
+
+Sam Jacobs – Pavilion
+https://www.pavilion.community/
 
 ---
 
@@ -159,9 +170,14 @@ Examples include:
 Communities retain members when they consistently create value rather than focusing only on promotions.
 
 **Sources:**
-- Beth McIntyre – How Communities Drive Growth
-- David Spinks – The Business of Belonging
-- Carrie Melissa Jones – Community Engagement Framework
+Beth McIntyre – How Communities Drive Growth
+https://bevy.com/b/blog/how-communities-drive-growth
+
+David Spinks – The Business of Belonging
+https://www.businessofbelonging.com/
+
+Carrie Melissa Jones – Community Engagement Framework
+https://www.carriemelissajones.com/
 
 ---
 
@@ -178,9 +194,14 @@ Create an environment where members actively contribute by:
 Healthy communities become self-sustaining when members help one another instead of relying entirely on moderators.
 
 **Sources:**
-- David Spinks – Build Community from Audience
-- Sam Jacobs – The Power of Professional Communities
-- Suresh Sambandam – Founder-First: How to Run Startup Events
+David Spinks – Build Community from Audience (YouTube)
+https://www.youtube.com/watch?v=4AWx54QXX48
+
+Sam Jacobs – The Power of Professional Communities
+https://www.pavilion.community/
+
+Suresh Sambandam – Founder-First: How to Run Startup Events
+https://www.linkedin.com/in/sureshsambandam/
 
 ---
 
@@ -199,9 +220,14 @@ Track metrics that reflect both engagement and business impact, such as:
 Avoid measuring success using member count alone.
 
 **Sources:**
-- Beth McIntyre – Three-Level Strategy Framework
-- Carrie Melissa Jones – Measuring Community Success
-- David Spinks – The Business of Belonging
+Beth McIntyre – Community Strategy: The Three-Level Framework
+https://www.cmxhub.com/blog/the-three-level-strategy-framework
+
+Carrie Melissa Jones – Measuring Community Success
+https://www.carriemelissajones.com/
+
+David Spinks – The Business of Belonging
+https://www.businessofbelonging.com/
 
 ---
 
@@ -212,9 +238,14 @@ Review community performance regularly by collecting member feedback through sur
 Use these insights to improve programs, community guidelines, events, and member experiences. Communities evolve when they listen to their members and adapt over time.
 
 **Sources:**
-- Lloyed Lobo – From Grassroots to Greatness
-- Avinash Raghava – Pay-it-forward
-- Greg Isenberg – Community Building
+Lloyed Lobo – From Grassroots to Greatness
+https://www.fromgrassrootstogreatness.com/
+
+Avinash Raghava – Pay-it-forward
+https://saasboomi.org/
+
+Greg Isenberg – Community Building (YouTube)
+https://www.youtube.com/watch?v=e9J9s2_DAKE
 
 - ## Where Experts Disagree
 
