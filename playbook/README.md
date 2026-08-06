@@ -277,3 +277,24 @@ I also considered using total member count as the primary measure of community s
 **My Analysis:**
 
 Community performance should be measured using a combination of engagement, retention, customer advocacy, product feedback, and business outcomes. These metrics provide a more complete picture of long-term community success.
+
+
+## My Original Idea
+
+### Community Contribution Score
+
+While reviewing the research, I noticed that most experts focus on creating value, encouraging participation, and measuring engagement. Building on these ideas, I propose introducing a **Community Contribution Score (CCS)** for B2B SaaS communities.
+
+Instead of measuring members only by how active they are, the CCS would recognize meaningful contributions such as:
+
+- Answering other members' questions
+- Providing product feedback
+- Sharing case studies or best practices
+- Welcoming and supporting new members
+- Participating in community events and discussions
+
+Members with consistently high contribution scores could receive recognition through badges, exclusive networking opportunities, beta access to new features, or invitations to advisory groups.
+
+**Why I believe this would work:**
+
+A Community Contribution Score encourages members to focus on creating value for others rather than simply increasing activity. It rewards quality over quantity, strengthens peer-to-peer learning, and helps build a self-sustaining community where members feel recognized for their contributions.
