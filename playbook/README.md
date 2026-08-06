@@ -37,8 +37,11 @@ Successful communities begin with a clear purpose that benefits members, not jus
 
 **Sources:**
 - Avinash Raghava – Homecoming: Going Back to My Roots of Building a Community
+  https://saasboomi.org/saas/community/going-back-to-roots-of-building-a-community/ :contentReference[oaicite:0]{index=0}
 - Carrie Melissa Jones – Building Brand Communities
-- David Spinks – The Business of Belonging / LinkedIn
+  https://buildingbrandcommunities.com/
+- David Spinks – The Business of Belonging
+  https://www.businessofbelonging.com/
 
 ---
 
@@ -48,9 +51,12 @@ Successful communities prioritize delivering value to members before focusing on
 
 **Sources:**
 - Beth McIntyre – Community Strategy: The Three-Level Framework
+  https://cmxhub.com/
 - Lloyed Lobo – From Grassroots to Greatness
-- Greg Isenberg – Community Building
-
+  https://www.fromgrassrootstogreatness.com/
+- Greg Isenberg – Community Building (YouTube)
+  https://www.youtube.com/watch?v=e9J9s2_DAKE
+  
 ---
 
 ### 3. Encourage Member-to-Member Participation
@@ -58,9 +64,12 @@ Successful communities prioritize delivering value to members before focusing on
 Healthy communities are driven by members rather than moderators alone. Encouraging members to answer questions, share experiences, mentor others, and contribute ideas creates stronger engagement and long-term sustainability. Communities become more valuable when members actively help one another.
 
 **Sources:**
-- David Spinks – Build Community from Audience
+- David Spinks – Build Community from Audience (YouTube)
+  https://www.youtube.com/watch?v=4AWx54QXX48
 - Sam Jacobs – Building Pavilion
+  https://www.pavilion.community/
 - Suresh Sambandam – Founder-First: How to Run Startup Events
+  https://www.linkedin.com/in/sureshsambandam/
 
 ---
 
@@ -69,9 +78,12 @@ Healthy communities are driven by members rather than moderators alone. Encourag
 Many successful communities begin with a small, highly engaged group instead of pursuing rapid membership growth. Building trust, encouraging meaningful conversations, and refining the community experience early creates a stronger foundation for sustainable expansion.
 
 **Sources:**
-- Greg Isenberg – Community Building
+- Greg Isenberg – Community Building (YouTube)
+  https://www.youtube.com/watch?v=e9J9s2_DAKE
 - Lloyed Lobo – How To Scale With Community-Led Growth
+  https://mail.ehandbook.com/p/scale-community-led-growth
 - Avinash Raghava – How To Build A Meaningful Community
+  https://saasboomi.org/
 
 ---
 
@@ -81,8 +93,11 @@ Community success should be evaluated using both member engagement and business 
 
 **Sources:**
 - Beth McIntyre – Three-Level Strategy Framework
+  https://cmxhub.com/
 - Carrie Melissa Jones – Measuring Community Success
+  https://www.cmj.group/
 - David Spinks – The Business of Belonging
+  https://www.businessofbelonging.com/
 
 ## Community-Led Growth SOP
 
