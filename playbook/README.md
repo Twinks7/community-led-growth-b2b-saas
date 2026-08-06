@@ -37,7 +37,7 @@ Successful communities begin with a clear purpose that benefits members, not jus
 
 **Sources:**
 - Avinash Raghava – Homecoming: Going Back to My Roots of Building a Community
-  https://saasboomi.org/saas/community/going-back-to-roots-of-building-a-community/ :contentReference[oaicite:0]{index=0}
+  https://saasboomi.org/saas/community/going-back-to-roots-of-building-a-community/ 
 - Carrie Melissa Jones – Building Brand Communities
   https://buildingbrandcommunities.com/
 - David Spinks – The Business of Belonging
@@ -115,15 +115,15 @@ Before launching a community, clearly define:
 
 A community should exist to solve meaningful problems for its members while supporting business goals. Launching without a clear purpose often results in low engagement and poor retention.
 
-**Sources**
+**Sources:**
 
-Beth McIntyre – Community Strategy: The Three-Level Framework
+- Beth McIntyre – Community Strategy: The Three-Level Framework
 https://www.cmxhub.com/blog/the-three-level-strategy-framework
 
-Carrie Melissa Jones – Building Brand Communities
+- Carrie Melissa Jones – Building Brand Communities
 https://buildingbrandcommunities.com/
 
-Avinash Raghava – How To Build A Meaningful Community
+- Avinash Raghava – How To Build A Meaningful Community
 https://saasboomi.org/
 
 ---
@@ -143,13 +143,13 @@ Potential members include:
 Early members help shape the culture, provide feedback, and encourage future participation.
 
 **Sources:**
-Greg Isenberg – Community Building (YouTube)
+- Greg Isenberg – Community Building (YouTube)
 https://www.youtube.com/watch?v=e9J9s2_DAKE
 
-Lloyed Lobo – How To Scale With Community-Led Growth
+- Lloyed Lobo – How To Scale With Community-Led Growth
 https://mail.ehandbook.com/p/scale-community-led-growth
 
-Sam Jacobs – Pavilion
+- Sam Jacobs – Pavilion
 https://www.pavilion.community/
 
 ---
@@ -170,13 +170,13 @@ Examples include:
 Communities retain members when they consistently create value rather than focusing only on promotions.
 
 **Sources:**
-Beth McIntyre – How Communities Drive Growth
+- Beth McIntyre – How Communities Drive Growth
 https://bevy.com/b/blog/how-communities-drive-growth
 
-David Spinks – The Business of Belonging
+- David Spinks – The Business of Belonging
 https://www.businessofbelonging.com/
 
-Carrie Melissa Jones – Community Engagement Framework
+- Carrie Melissa Jones – Community Engagement Framework
 https://www.carriemelissajones.com/
 
 ---
@@ -194,13 +194,13 @@ Create an environment where members actively contribute by:
 Healthy communities become self-sustaining when members help one another instead of relying entirely on moderators.
 
 **Sources:**
-David Spinks – Build Community from Audience (YouTube)
+- David Spinks – Build Community from Audience (YouTube)
 https://www.youtube.com/watch?v=4AWx54QXX48
 
-Sam Jacobs – The Power of Professional Communities
+- Sam Jacobs – The Power of Professional Communities
 https://www.pavilion.community/
 
-Suresh Sambandam – Founder-First: How to Run Startup Events
+- Suresh Sambandam – Founder-First: How to Run Startup Events
 https://www.linkedin.com/in/sureshsambandam/
 
 ---
@@ -220,13 +220,13 @@ Track metrics that reflect both engagement and business impact, such as:
 Avoid measuring success using member count alone.
 
 **Sources:**
-Beth McIntyre – Community Strategy: The Three-Level Framework
+- Beth McIntyre – Community Strategy: The Three-Level Framework
 https://www.cmxhub.com/blog/the-three-level-strategy-framework
 
-Carrie Melissa Jones – Measuring Community Success
+- Carrie Melissa Jones – Measuring Community Success
 https://www.carriemelissajones.com/
 
-David Spinks – The Business of Belonging
+- David Spinks – The Business of Belonging
 https://www.businessofbelonging.com/
 
 ---
@@ -238,16 +238,16 @@ Review community performance regularly by collecting member feedback through sur
 Use these insights to improve programs, community guidelines, events, and member experiences. Communities evolve when they listen to their members and adapt over time.
 
 **Sources:**
-Lloyed Lobo – From Grassroots to Greatness
+- Lloyed Lobo – From Grassroots to Greatness
 https://www.fromgrassrootstogreatness.com/
 
-Avinash Raghava – Pay-it-forward
+- Avinash Raghava – Pay-it-forward
 https://saasboomi.org/
 
-Greg Isenberg – Community Building (YouTube)
+- Greg Isenberg – Community Building (YouTube)
 https://www.youtube.com/watch?v=e9J9s2_DAKE
 
-- ## Where Experts Disagree
+ ## Where Experts Disagree
 
 Although the experts agree on the importance of community-led growth, they differ in their approach to building and measuring successful communities.
 
@@ -256,9 +256,15 @@ Although the experts agree on the importance of community-led growth, they diffe
 Greg Isenberg and Lloyed Lobo emphasize the role of founders in actively building and nurturing communities during the early stages. In contrast, David Spinks believes that while founders help establish the initial culture, long-term success depends on members taking ownership and actively supporting one another.
 
 **Sources:**
-- Greg Isenberg – Community Building
+
+- Greg Isenberg – Community Building (YouTube)
+  https://www.youtube.com/watch?v=e9J9s2_DAKE
+
 - Lloyed Lobo – From Grassroots to Greatness
-- David Spinks – Build Community from Audience
+  https://www.fromgrassrootstogreatness.com/
+
+- David Spinks – Build Community from Audience (YouTube)
+  https://www.youtube.com/watch?v=4AWx54QXX48
 
 **My Analysis:**
 
@@ -271,8 +277,15 @@ Founders should lead in the beginning to establish trust and direction, but comm
 Beth McIntyre focuses on aligning community initiatives with measurable business outcomes such as customer retention and growth. Carrie Melissa Jones places equal importance on member belonging, engagement, and long-term relationships alongside business metrics.
 
 **Sources:**
-- Beth McIntyre – Three-Level Strategy Framework
+
+- Beth McIntyre – Community Strategy: The Three-Level Framework
+  https://www.cmxhub.com/blog/the-three-level-strategy-framework
+
 - Carrie Melissa Jones – Measuring Community Success
+  https://www.cmj.group/
+
+- David Spinks – The Business of Belonging
+  https://www.businessofbelonging.com/
 
 **My Analysis:**
 
@@ -285,9 +298,15 @@ Community success should be evaluated using both business metrics and member exp
 Greg Isenberg encourages rapid experimentation and continuous iteration while building communities. Avinash Raghava and Suresh Sambandam place greater emphasis on building trust, culture, and strong member relationships before expanding the community.
 
 **Sources:**
-- Greg Isenberg – Community Building
+
+- Greg Isenberg – Community Building (YouTube)
+  https://www.youtube.com/watch?v=e9J9s2_DAKE
+
 - Avinash Raghava – How To Build A Meaningful Community
+  https://saasboomi.org/
+
 - Suresh Sambandam – Founder-First: How to Run Startup Events
+  https://www.linkedin.com/in/sureshsambandam/
 
 **My Analysis:**
 
@@ -301,9 +320,15 @@ Early experimentation is valuable, but sustainable growth depends on establishin
 Initially, I considered recommending rapid community growth as a primary objective. However, after reviewing the research, I rejected this idea because multiple experts consistently emphasized that an engaged community creates more long-term value than a large but inactive audience.
 
 **Sources:**
+
 - Greg Isenberg – Community Building (YouTube)
+  https://www.youtube.com/watch?v=e9J9s2_DAKE
+
 - Lloyed Lobo – How To Scale With Community-Led Growth
+  https://mail.ehandbook.com/p/scale-community-led-growth
+
 - Avinash Raghava – How To Build A Meaningful Community
+  https://saasboomi.org/
 
 **My Analysis:**
 
@@ -316,9 +341,15 @@ A smaller, highly engaged community generates stronger relationships, better pro
 I also considered using total member count as the primary measure of community success. After comparing different expert perspectives, I rejected this idea because membership numbers alone do not reflect community health or business impact.
 
 **Sources:**
-- Beth McIntyre – Three-Level Strategy Framework
+
+- Beth McIntyre – Community Strategy: The Three-Level Framework
+  https://www.cmxhub.com/blog/the-three-level-strategy-framework
+
 - Carrie Melissa Jones – Measuring Community Success
+  https://www.cmj.group/
+
 - David Spinks – The Business of Belonging
+  https://www.businessofbelonging.com/
 
 **My Analysis:**
 
