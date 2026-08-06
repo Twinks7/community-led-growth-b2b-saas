@@ -36,6 +36,7 @@ The following principles appeared consistently across multiple experts and form 
 Successful communities begin with a clear purpose that benefits members, not just the business. Across multiple experts, a recurring theme is that people join and stay in communities when they share common goals, learn from peers, and find meaningful value. A strong purpose creates trust, encourages participation, and lays the foundation for sustainable community growth.
 
 **Sources:**
+
 - Avinash Raghava – Homecoming: Going Back to My Roots of Building a Community
   https://saasboomi.org/saas/community/going-back-to-roots-of-building-a-community/ 
 - Carrie Melissa Jones – Building Brand Communities
@@ -50,6 +51,7 @@ Successful communities begin with a clear purpose that benefits members, not jus
 Successful communities prioritize delivering value to members before focusing on rapid growth. Rather than chasing membership numbers, communities should provide educational content, meaningful discussions, networking opportunities, and practical support that encourage members to stay engaged. When members consistently receive value, they are more likely to participate, contribute, and advocate for the community.
 
 **Sources:**
+
 - Beth McIntyre – Community Strategy: The Three-Level Framework
   https://cmxhub.com/
 - Lloyed Lobo – From Grassroots to Greatness
@@ -64,6 +66,7 @@ Successful communities prioritize delivering value to members before focusing on
 Healthy communities are driven by members rather than moderators alone. Encouraging members to answer questions, share experiences, mentor others, and contribute ideas creates stronger engagement and long-term sustainability. Communities become more valuable when members actively help one another.
 
 **Sources:**
+
 - David Spinks – Build Community from Audience (YouTube)
   https://www.youtube.com/watch?v=4AWx54QXX48
 - Sam Jacobs – Building Pavilion
@@ -78,6 +81,7 @@ Healthy communities are driven by members rather than moderators alone. Encourag
 Many successful communities begin with a small, highly engaged group instead of pursuing rapid membership growth. Building trust, encouraging meaningful conversations, and refining the community experience early creates a stronger foundation for sustainable expansion.
 
 **Sources:**
+
 - Greg Isenberg – Community Building (YouTube)
   https://www.youtube.com/watch?v=e9J9s2_DAKE
 - Lloyed Lobo – How To Scale With Community-Led Growth
@@ -92,6 +96,7 @@ Many successful communities begin with a small, highly engaged group instead of 
 Community success should be evaluated using both member engagement and business impact. Metrics such as active participation, retention, advocacy, customer feedback, and product improvement provide a more meaningful view of community health than member count alone.
 
 **Sources:**
+
 - Beth McIntyre – Three-Level Strategy Framework
   https://cmxhub.com/
 - Carrie Melissa Jones – Measuring Community Success
@@ -143,6 +148,7 @@ Potential members include:
 Early members help shape the culture, provide feedback, and encourage future participation.
 
 **Sources:**
+
 - Greg Isenberg – Community Building (YouTube)
 https://www.youtube.com/watch?v=e9J9s2_DAKE
 
@@ -170,6 +176,7 @@ Examples include:
 Communities retain members when they consistently create value rather than focusing only on promotions.
 
 **Sources:**
+
 - Beth McIntyre – How Communities Drive Growth
 https://bevy.com/b/blog/how-communities-drive-growth
 
@@ -194,6 +201,7 @@ Create an environment where members actively contribute by:
 Healthy communities become self-sustaining when members help one another instead of relying entirely on moderators.
 
 **Sources:**
+
 - David Spinks – Build Community from Audience (YouTube)
 https://www.youtube.com/watch?v=4AWx54QXX48
 
@@ -220,6 +228,7 @@ Track metrics that reflect both engagement and business impact, such as:
 Avoid measuring success using member count alone.
 
 **Sources:**
+
 - Beth McIntyre – Community Strategy: The Three-Level Framework
 https://www.cmxhub.com/blog/the-three-level-strategy-framework
 
@@ -238,6 +247,7 @@ Review community performance regularly by collecting member feedback through sur
 Use these insights to improve programs, community guidelines, events, and member experiences. Communities evolve when they listen to their members and adapt over time.
 
 **Sources:**
+
 - Lloyed Lobo – From Grassroots to Greatness
 https://www.fromgrassrootstogreatness.com/
 
@@ -375,3 +385,4 @@ Members with consistently high contribution scores could receive recognition thr
 **Why I believe this would work:**
 
 A Community Contribution Score encourages members to focus on creating value for others rather than simply increasing activity. It rewards quality over quantity, strengthens peer-to-peer learning, and helps build a self-sustaining community where members feel recognized for their contributions.
+Companies could implement the Community Contribution Score through points, badges, leaderboards, or moderator nominations, depending on the maturity and goals of their community.
