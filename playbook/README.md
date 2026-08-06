@@ -386,3 +386,26 @@ Members with consistently high contribution scores could receive recognition thr
 
 A Community Contribution Score encourages members to focus on creating value for others rather than simply increasing activity. It rewards quality over quantity, strengthens peer-to-peer learning, and helps build a self-sustaining community where members feel recognized for their contributions.
 Companies could implement the Community Contribution Score through points, badges, leaderboards, or moderator nominations, depending on the maturity and goals of their community.
+
+
+## Weaknesses of This Playbook
+
+Although this playbook combines insights from multiple community leaders, it has several limitations.
+
+- Most recommendations come from experienced community practitioners rather than controlled research studies.
+- Many examples are based on B2B SaaS companies, so some recommendations may not apply to B2C or offline communities.
+- The Community Contribution Score (CCS) proposed in this playbook has not yet been tested in a real community environment.
+- Community success also depends on company culture, product quality, and leadership, which are outside the scope of this playbook.
+
+Overall, this playbook should be viewed as a practical starting point rather than a universal framework.
+
+
+## Who I Would NOT Recommend Following and Why
+
+After reviewing all ten experts, I would not exclude any of them entirely because each contributes valuable perspectives on community building.
+
+However, I would recommend using Greg Isenberg's advice with caution for early-stage B2B SaaS companies. Much of his content focuses on rapid experimentation, audience building, and internet-first startups. While these ideas are valuable, they may not always translate directly to SaaS companies that require longer sales cycles, structured customer success, and enterprise relationships.
+
+For organizations building sustainable B2B SaaS communities, I believe the approaches of David Spinks, Carrie Melissa Jones, Beth McIntyre, Lloyed Lobo, and Avinash Raghava provide more comprehensive frameworks for long-term community development.
+
+
